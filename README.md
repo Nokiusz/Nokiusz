@@ -1,6 +1,5 @@
 # Hi there, I'm Mateusz[Nokiusz] 👋
 ## I'm a Computer Science Student learning how to code 🤓
-[![Twitter Follow](https://img.shields.io/twitter/follow/xNokiusz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=xNokiusz)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mklakus)
 
 ### Languages and Tools:
