@@ -17,4 +17,7 @@
 
 <a href="#"><img align="left" alt="C#"  title="C#" style="margin-right:5px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" /></a>
 
+
+<a href="#"><img align="left" alt="Wordpress" title="Wordpress" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" /></a>
+
 <a href="#"><img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
