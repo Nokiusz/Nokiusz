@@ -20,7 +20,7 @@
 
 <a href="#"><img align="left" style="margin-right:5px;margin-top:5px;" alt="Wordpress" title="Wordpress" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" /></a>
 
-<a href="#"><img align="left" style="margin-right:5px;margin-top:5px;" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a><br>  
+<a href="#"><img align="left" style="margin-right:5px;margin-top:5px;" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a><br><br>  
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Nokiusz&count_private=true&show_icons=true&theme=onedark&hide=prs,issues&custom_title=Nokiusz%20GitHub%20Stats)
