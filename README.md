@@ -13,11 +13,6 @@
 
 <a href="#"><img align="left" alt="react"  title="react" style="margin-right:5px;margin-top:5px;" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" /></a>
 
-<a href="#"><img align="left" alt="Unity"  title="Unity" style="margin-right:5px;margin-top:5px;" width="30px" src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png" /></a>
-
-<a href="#"><img align="left" alt="C#"  title="C#" style="margin-right:5px;margin-top:5px;" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" /></a>
-
-
 <a href="#"><img align="left" style="margin-right:5px;margin-top:5px;" alt="Wordpress" title="Wordpress" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" /></a>
 
 <a href="#"><img align="left" style="margin-right:5px;margin-top:5px;" alt="Terminal" title="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a><br><br>  
