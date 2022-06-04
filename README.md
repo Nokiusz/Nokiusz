@@ -1,5 +1,5 @@
 # Hello there, I'm Mateusz[Nokiusz] 👋
-## I'm a Computer Science Student learning how to code 🤓
+## Junior Javascript Developer 🤓
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mklakus)
 
 ### Languages and Tools:
