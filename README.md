@@ -16,8 +16,9 @@
 
 <a href="#"><img align="left" alt="react"  title="react" style="margin-right:5px;margin-top:5px;" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" /></a>
 
-<a href="#"><img align="left" style="margin-right:5px;margin-top:5px;" alt="Terminal" title="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a><br><br>  
+<a href="#"><img align="left" alt="git"  title="git" style="margin-right:5px;margin-top:5px;" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
 
+<a href="#"><img align="left" style="margin-right:5px;margin-top:5px;" alt="Terminal" title="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a><br><br>  
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Nokiusz&count_private=true&show_icons=true&theme=onedark&hide=prs,issues&custom_title=Nokiusz%20GitHub%20Stats)
 
