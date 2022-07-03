@@ -1,26 +1,37 @@
-# Hello there, I'm Mateusz[Nokiusz] 👋
-## Junior Javascript Developer 🤓
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mklakus)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mateusz<Nokiusz>
+========================================================================================================================================
 
-### Languages and Tools:
-<a href="#"><img align="left" style="margin-right:5px;margin-top:5px;" alt="Visual Studio Code" title="Visual Studio Code" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" /></a>
+Junior Javascript Developer
+---------------------------
+
+* <img src="https://user-images.githubusercontent.com/50427204/177032331-db07c771-d6a7-41b0-a699-e69bdbc8d398.png" width="30px" height="30px" align="center"/> working at 10Clouds
+* 🌍 based in Poland
+
+<a href="https://www.github.com/Nokiusz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Nokiusz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+</p>
 
 
-<a href="#"><img align="left" alt="HTML5" title="HTML5" style="margin-right:5px;margin-top:5px;" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" /></a>
+### Socials
 
-<a href="#"><img align="left" alt="CSS3" title="CSS3" style="margin-right:5px;margin-top:5px;" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" /></a>
+<p align="left"> <a href="https://www.behance.com/xnokiusz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/Nokiusz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/xnokiusz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mklakus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<a href="#"><img align="left" alt="JavaScript" title="JavaScript" style="margin-right:5px;margin-top:5px;" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></a>
+### Badges
 
-<a href="#"><img align="left" alt="TypeScript" title="TypeScript" style="margin-right:5px;margin-top:5px;" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" /></a>
+<b>My GitHub Stats</b>
 
-<a href="#"><img align="left" alt="react"  title="react" style="margin-right:5px;margin-top:5px;" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" /></a>
+<a href="http://www.github.com/Nokiusz"><img src="https://activity-graph.herokuapp.com/graph?username=Nokiusz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="#"><img align="left" alt="git"  title="git" style="margin-right:5px;margin-top:5px;" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
-
-<a href="#"><img align="left" style="margin-right:5px;margin-top:5px;" alt="Terminal" title="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a><br><br>  
-
-![github stats](https://github-readme-stats.vercel.app/api?username=Nokiusz&count_private=true&show_icons=true&theme=onedark&hide=prs,issues&custom_title=Nokiusz%20GitHub%20Stats)
-
-
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokiusz&layout=compact&theme=onedark)
+<a href="https://github.com/Nokiusz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokiusz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
