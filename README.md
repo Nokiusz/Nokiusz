@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mateusz<Nokiusz>
 ========================================================================================================================================
 
-Junior Javascript Developer
+Javascript Developer
 ---------------------------
 
 * <img src="https://user-images.githubusercontent.com/50427204/177032331-db07c771-d6a7-41b0-a699-e69bdbc8d398.png" width="30px" height="30px" align="center"/> working at 10Clouds
