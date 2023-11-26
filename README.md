@@ -5,6 +5,7 @@ Javascript Developer
 ---------------------------
 
 * 🌍 based in Poland
+* Working at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fandom_heart-logo.svg/1473px-Fandom_heart-logo.svg.png" width="16px" heigth="16px" /> [Fandom](https://github.com/Wikia) 
 
 <a href="https://www.github.com/Nokiusz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Nokiusz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
